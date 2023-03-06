@@ -1,0 +1,13 @@
+.card{
+    width: 310px;
+}
+
+.card p {
+    font-size: 15px;
+    margin: 10px 0;
+}
+
+.card span {
+    font-size: 18px;
+    margin-right: 6px;
+}
