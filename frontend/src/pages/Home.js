@@ -79,7 +79,7 @@ function Home() {
 
     return (
         <div className="main-container">
-            <div className="header"><b>Recommended Blogs</b></div>
+            <div className="header"><b>Recommended Stories</b></div>
             <div className="blog-container">
                 {loading ? <LoadingCard/> : 
                     (   

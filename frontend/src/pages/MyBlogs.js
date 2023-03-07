@@ -100,7 +100,7 @@ function MyBlogs() {
     return (
         <div className="main-container">
             <div className="header myblogs">
-                <b>Your Blogs</b>   
+                <b>The stories of you</b>   
             </div>
             <PPTabs 
                 public={
